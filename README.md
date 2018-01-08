@@ -1,2 +1,2 @@
 # lotto
-homework
+tku homework
